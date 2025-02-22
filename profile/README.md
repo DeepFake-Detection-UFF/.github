@@ -1,7 +1,7 @@
 # Desafios e Inovações em Segurança Digital:  
 ## Detecção de Deepfakes em Biometria Facial
 
-Com o **avanço vertiginoso das técnicas de manipulação digital**, os riscos associados ao uso de sistemas de reconhecimento facial se intensificam, principalmente em setores críticos como a **segurança bancária**.
+Com o **avanço das técnicas de manipulação digital**, os riscos associados ao uso de sistemas de reconhecimento facial se intensificam, principalmente em setores críticos como a **segurança bancária**.
 
 > **Deepfakes** são vídeos ou imagens gerados por inteligência artificial capazes de falsificar rostos com uma precisão impressionante – um desafio que coloca os sistemas de autenticação à prova.
 
