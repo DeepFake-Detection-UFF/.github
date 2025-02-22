@@ -1,4 +1,10 @@
-## Hi there 👋
+Desafios e Inovações em Segurança Digital: Detecção de Deepfakes em Biometria Facial.
+
+Com o avanço das técnicas de manipulação digital, como as deepfakes, crescem os riscos associados ao uso de sistemas de reconhecimento facial, principalmente em áreas sensíveis como a segurança bancária. 
+
+Deepfakes são vídeos ou imagens gerados por inteligência artificial que podem falsificar rostos com alta precisão, representando um grande desafio para sistemas de autenticação.
+
+Este projeto tem como objetivo desenvolver métodos avançados para detecção de deepfakes em biometria facial, aumentando a confiabilidade e a segurança de sistemas bancários. A iniciativa é conduzida em parceria com o Instituto de Ciência e Tecnologia (ICTi) do Itaú.
 
 <!--
 
